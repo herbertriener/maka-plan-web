@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const image = document.createElement('img');
 image.id = 'image';
-image.src = 'https://bulgariamitko.github.io/flutterflowtutorials/gh-pages/web/loading.png';
+image.src = 'https://github.com/herbertriener/maka-plan-web/blob/main/web/Logo-GIF.gif';
 image.style.cssText = `
     max-width: 100%;
     max-height: 100%;
